@@ -23,4 +23,6 @@ Image shows that the data has filterd by shape of **light**.\
 ![Shape Filtered](https://github.com/jamesmoonusa/UFOs/blob/main/images/state_filtered.PNG)
 
 ### Summary
-- 
+- This filter has difficulty to find parameter. For example, a user would need to go through the table to find the city for desired analysis.
+- It would be better to build the Filters with drop down selection, so that a user does not need to look through the tables.
+- Also if the Table's columns has **Decending** or **Acending** order function would be good to have. For example as clicking **State** on the Table, the table changes alpaphet order A-Z, one more click makes Z-A order.  
