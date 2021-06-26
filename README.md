@@ -4,7 +4,7 @@ Using HTML and Javascript making a dynamic webpage that accpets user input to di
 
 ### Results
 The initial look for the webpage is following. A user can input Filter on left side, and the Filtered Data will be displayed on right side table.\
-[Initial Webpage Image](https://github.com/jamesmoonusa/UFOs/blob/main/images/initial_look.PNG)
+![Initial Webpage Image](https://github.com/jamesmoonusa/UFOs/blob/main/images/initial_look.PNG)
 
 
 1. Date - A user can input a date that want to serach on data and disply on the Table. Image shows that the data has filterd by date of **01/13/2010**.\
